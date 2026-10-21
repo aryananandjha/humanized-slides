@@ -2,6 +2,8 @@
 
 A master prompt (and a Claude skill) for making AI slideshows that look and read like a real student or teacher made them.
 
+**Website:** https://aryananandjha.github.io/humanized-slides/
+
 AI-made decks are easy to spot: the same card layout on every slide, an icon next to every bullet, words like "pivotal" and "seamless," a "Key takeaways" slide at the end. This prompt fixes that by giving Claude a real person's deck to copy instead of a list of rules to guess from. It was built from a real high school AI Club deck and is meant for classes, clubs and anyone who presents their own slides.
 
 ## How to use it
